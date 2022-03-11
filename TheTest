@@ -1,1 +1,14 @@
+public class TheTest
+{
+    public TheTest()
+    {
+
+
+    }
+
+    public static void main(String[]args)
+    {
+        TheTest app = new TheTest();
+    }
+}
 
